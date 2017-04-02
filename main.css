@@ -1,49 +1,49 @@
 
 header {
     text-align: center;
-    background: url('https://rawgit.com/helen-anderson/blog-theme/master/img/Globe.jpg');
+    background: url('https://rawgit.com/helenanderson26/blog-theme/master/img/Globe.jpg');
     background-size: cover;
     color: #232323;
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
   }
-  
+
   a {
     color: white;
   }
-  
+
   h1 {
     font-size: 70px;
     font-family: "Raleway";
     font-weight: bold;
   }
-  
+
   img {
     margin: 0px 40px 0px 0px;
     border: 0px solid white;
     border-radius: 20px;
   }
-  
+
   ul {
     padding: 10px;
     background: rgba(0, 0, 0, 0.5);
     font-family: "Raleway";
     font-weight: bold;
   }
-  
+
   li {
     display: inline;
     padding: 0px 50px 0px 10px;
   }
-  
+
   article {
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
     font-family: "Helvetica";
   }
-  
+
   @media (max-width: 500px) {
     h1 {
       font-size: 36px;
@@ -55,4 +55,3 @@ header {
       display: block;
     }
   }
-

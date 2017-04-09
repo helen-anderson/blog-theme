@@ -8,41 +8,41 @@ header {
     font-family: "Raleway";
     font-size: 40px;
     font-weight: bold;
-  }
+}
 
-  a {
+a {
     color: white;
     font-size: 30px;
-  }
+}
 
-  ul {
+ul {
     padding: 10px;
     background: #bdbdbd;
     font-family: "Raleway";
     font-weight: bold;
-  }
+}
 
-  li {
+li {
     display: inline;
     padding: 0 50px 0 10px;
-  }
+}
 
-  article {
+article {
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
     font-family: "Helvetica";
-  }
+}
 
-  @media (max-width: 500px) {
+@media (max-width: 500px) {
     h1 {
-      font-size: 36px;
-      font-family: "Helvetica";
-      padding: 5px;
+        font-size: 36px;
+        font-family: "Helvetica";
+        padding: 5px;
     }
     li {
-      font-size: 36px;
-      padding: 5px;
-      display: block;
+        font-size: 36px;
+        padding: 5px;
+        display: block;
     }
-  }
+}
